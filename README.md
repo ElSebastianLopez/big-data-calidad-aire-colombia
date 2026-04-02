@@ -103,13 +103,13 @@ spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.8 spark_s
 ## 📊 Resultados del Análisis Batch
 
 ### Top 10 Departamentos con Mayor Concentración de PM2.5
-![Gráfica 1](graficas/grafica1_pm25_departamentos.png)
+![Gráfica 1](Graficas/grafica1_pm25_departamentos.png)
 
 ### Evolución Anual del Promedio de PM2.5 en Colombia (2011-2024)
-![Gráfica 2](graficas/grafica2_evolucion_anual.png)
+![Gráfica 2](Graficas/grafica2_evolucion_anual.png)
 
 ### Variables Ambientales más Monitoreadas
-![Gráfica 3](graficas/grafica3_variables.png)
+![Gráfica 3](Graficas/grafica3_variables.png)
 
 ---
 
